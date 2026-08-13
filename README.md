@@ -36,6 +36,7 @@ This repository is intentionally minimal, so it's easy to review:
 ## Upgrading
 
 ```
+brew update
 brew upgrade driverforge
 brew upgrade gayle
 ```
